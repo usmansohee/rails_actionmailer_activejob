@@ -9,7 +9,7 @@ Things you may want to cover:
 
 * ActiveJob and ActionMailer forom
 
-* Configuration => gamil smpt for actionemailer
+* Configuration => gmail smpt for actionemailer
 
 * Database => mysqlite
 
