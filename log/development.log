@@ -1,0 +1,2449 @@
+Started GET "/" for ::1 at 2022-10-06 18:06:38 +0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 635)
+Completed 200 OK in 22ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 4952)
+
+
+Started GET "/usman/index" for ::1 at 2022-10-07 10:20:13 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+        json: "usman"
+            ^
+):
+  
+app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+Started GET "/usman/index" for ::1 at 2022-10-07 10:22:00 +0500
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for UsmanController):
+  
+actionpack (7.0.4) lib/abstract_controller/base.rb:146:in `process'
+actionpack (7.0.4) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.4) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.4) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.4) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.4) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.4) lib/action_dispatch/routing/route_set.rb:852:in `call'
+rack (2.2.4) lib/rack/etag.rb:27:in `call'
+rack (2.2.4) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.4) lib/rack/head.rb:12:in `call'
+activerecord (7.0.4) lib/active_record/migration.rb:603:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.4) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.4) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.4) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.4) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.4) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.4) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.4) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.4) lib/rails/rack/logger.rb:25:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.4) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.4) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.4) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.4) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.4) lib/rails/engine.rb:530:in `call'
+puma (5.6.5) lib/puma/configuration.rb:252:in `call'
+puma (5.6.5) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.5) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.5) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.5) lib/puma/server.rb:443:in `process_client'
+puma (5.6.5) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/usman/index" for ::1 at 2022-10-07 10:22:21 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+        json: "usman"
+            ^
+):
+  
+app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+Started GET "/usman/index" for ::1 at 2022-10-07 10:22:37 +0500
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for UsmanController):
+  
+actionpack (7.0.4) lib/abstract_controller/base.rb:146:in `process'
+actionpack (7.0.4) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.4) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.4) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.4) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.4) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.4) lib/action_dispatch/routing/route_set.rb:852:in `call'
+rack (2.2.4) lib/rack/etag.rb:27:in `call'
+rack (2.2.4) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.4) lib/rack/head.rb:12:in `call'
+activerecord (7.0.4) lib/active_record/migration.rb:603:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.4) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.4) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.4) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.4) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.4) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (7.0.4) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (7.0.4) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (7.0.4) lib/rails/rack/logger.rb:25:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.4) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+actionpack (7.0.4) lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+actionpack (7.0.4) lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.4) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.4) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.4) lib/rails/engine.rb:530:in `call'
+puma (5.6.5) lib/puma/configuration.rb:252:in `call'
+puma (5.6.5) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.5) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.5) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.5) lib/puma/server.rb:443:in `process_client'
+puma (5.6.5) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/usman/index" for ::1 at 2022-10-07 10:22:56 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end'
+resources :usman only[:index]
+                 ^~~~
+/Users/usmanahmed/Desktop/testing/test_mailer/config/routes.rb:10: syntax error, unexpected `end', expecting end-of-input):
+  
+config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end'
+config/routes.rb:10: syntax error, unexpected `end', expecting end-of-input
+config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end'
+config/routes.rb:10: syntax error, unexpected `end', expecting end-of-input
+Started GET "/usman/index" for ::1 at 2022-10-07 10:23:21 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end'
+resources :usman only: [index]
+                 ^~~~
+):
+  
+config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end'
+config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end'
+Started GET "/usman/index" for ::1 at 2022-10-07 10:24:14 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/usman/index"):
+  
+Started GET "/usman/index" for ::1 at 2022-10-07 10:24:15 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/usman/index"):
+  
+Started GET "/usman/" for ::1 at 2022-10-07 10:25:32 +0500
+Processing by UsmanController#index as */*
+Completed 200 OK in 9ms (Views: 0.2ms | Allocations: 2326)
+
+
+Started GET "/usman/" for ::1 at 2022-10-07 10:26:41 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:4: syntax error, unexpected ':', expecting =>
+        "title"	:	"Ruby In Rails",
+               	^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:4: syntax error, unexpected ',', expecting `end'
+...     "title"	:	"Ruby In Rails",
+...            	 	               ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:5: syntax error, unexpected ':', expecting `end'
+        "url"	:	"https://rubyinrails.com",
+             	^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:5: syntax error, unexpected ',', expecting `end'
+...l"	:	"https://rubyinrails.com",
+...  	 	                         ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+        "posts"	:	{
+               	^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:10: syntax error, unexpected '}', expecting `end'
+    }
+    ^
+):
+  
+app/controllers/usman_controller.rb:4: syntax error, unexpected ':', expecting =>
+app/controllers/usman_controller.rb:4: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:5: syntax error, unexpected ':', expecting `end'
+app/controllers/usman_controller.rb:5: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+app/controllers/usman_controller.rb:10: syntax error, unexpected '}', expecting `end'
+app/controllers/usman_controller.rb:4: syntax error, unexpected ':', expecting =>
+app/controllers/usman_controller.rb:4: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:5: syntax error, unexpected ':', expecting `end'
+app/controllers/usman_controller.rb:5: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:6: syntax error, unexpected ':', expecting `end'
+app/controllers/usman_controller.rb:10: syntax error, unexpected '}', expecting `end'
+Started GET "/usman/" for ::1 at 2022-10-07 10:27:42 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:7: syntax error, unexpected ':', expecting =>
+                        1: "strftime-time-format-in-rub...
+                         ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:7: syntax error, unexpected ',', expecting `end'
+..."strftime-time-format-in-ruby",
+...                              ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:9: syntax error, unexpected '}', expecting `end'
+                }
+                ^
+):
+  
+app/controllers/usman_controller.rb:7: syntax error, unexpected ':', expecting =>
+app/controllers/usman_controller.rb:7: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:9: syntax error, unexpected '}', expecting `end'
+app/controllers/usman_controller.rb:7: syntax error, unexpected ':', expecting =>
+app/controllers/usman_controller.rb:7: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:9: syntax error, unexpected '}', expecting `end'
+Started GET "/usman/" for ::1 at 2022-10-07 10:28:06 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:4: syntax error, unexpected string literal, expecting ']'
+        :title	"Ruby In Rails",
+              	^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:4: syntax error, unexpected ',', expecting `end'
+        :title	"Ruby In Rails",
+              	               ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:5: syntax error, unexpected ',', expecting `end'
+...url:	"https://rubyinrails.com",
+...    	                         ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:9: syntax error, unexpected ']', expecting `end'
+    ]
+    ^
+):
+  
+app/controllers/usman_controller.rb:4: syntax error, unexpected string literal, expecting ']'
+app/controllers/usman_controller.rb:4: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:5: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:9: syntax error, unexpected ']', expecting `end'
+app/controllers/usman_controller.rb:4: syntax error, unexpected string literal, expecting ']'
+app/controllers/usman_controller.rb:4: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:5: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:9: syntax error, unexpected ']', expecting `end'
+Started GET "/usman/" for ::1 at 2022-10-07 10:28:28 +0500
+  
+SyntaxError (/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:8: syntax error, unexpected string literal, expecting ']'
+            :title	"Ruby In Rails",
+                  	^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:8: syntax error, unexpected ',', expecting `end'
+...        :title	"Ruby In Rails",
+...              	               ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:9: syntax error, unexpected ',', expecting `end'
+...url:	"https://rubyinrails.com",
+...    	                         ^
+/Users/usmanahmed/Desktop/testing/test_mailer/app/controllers/usman_controller.rb:13: syntax error, unexpected ']', expecting `end'
+        ]
+        ^
+):
+  
+app/controllers/usman_controller.rb:8: syntax error, unexpected string literal, expecting ']'
+app/controllers/usman_controller.rb:8: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:9: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:13: syntax error, unexpected ']', expecting `end'
+app/controllers/usman_controller.rb:8: syntax error, unexpected string literal, expecting ']'
+app/controllers/usman_controller.rb:8: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:9: syntax error, unexpected ',', expecting `end'
+app/controllers/usman_controller.rb:13: syntax error, unexpected ']', expecting `end'
+Started GET "/usman/" for ::1 at 2022-10-07 10:28:51 +0500
+Processing by UsmanController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 232)
+
+
+Started GET "/" for ::1 at 2022-10-07 10:29:51 +0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 524)
+Completed 200 OK in 11ms (Views: 4.3ms | Allocations: 3518)
+
+
+Started GET "/" for ::1 at 2022-10-07 10:56:34 +0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 297)
+Completed 200 OK in 3ms (Views: 1.6ms | Allocations: 961)
+
+
+Started GET "/usman/" for ::1 at 2022-10-07 10:56:40 +0500
+Processing by UsmanController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 159)
+
+
+  [1m[35m (3.1ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (0.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUsers (20221007061613)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "username" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.7ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20221007061613"]]
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2022-10-07 06:17:33.221956"], ["updated_at", "2022-10-07 06:17:33.221956"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/user/" for ::1 at 2022-10-07 11:18:41 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/user"):
+  
+Started GET "/users/" for ::1 at 2022-10-07 11:18:45 +0500
+Processing by UsersController#index as */*
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/controllers/users_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 1.6ms | ActiveRecord: 0.2ms | Allocations: 1819)
+
+
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "usman"], ["email", "usman.ahmed@invozone.com"], ["username", "usman"], ["created_at", "2022-10-07 06:20:38.016886"], ["updated_at", "2022-10-07 06:20:38.016886"]]
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+Started POST "/users/?name=akif&username=akif&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:23:43 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"akif", "username"=>"akif", "email"=>"usman.ahmed@invozone.com"}
+Completed 400 Bad Request in 2ms (Allocations: 815)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: user):
+  
+app/controllers/users_controller.rb:51:in `user_params'
+app/controllers/users_controller.rb:18:in `create'
+Started GET "/users/?id=1" for ::1 at 2022-10-07 11:25:17 +0500
+Processing by UsersController#index as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/controllers/users_controller.rb:8:in `index'
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 1.1ms | Allocations: 7134)
+
+
+Started POST "/users/" for ::1 at 2022-10-07 11:30:05 +0500
+Processing by UsersController#create as */*
+  Parameters: {"users"=>[{"name"=>"john Dow", "email"=>"johnDoe@gmail.com", "username"=>"akif"}], "user"=>{}}
+Completed 400 Bad Request in 0ms (ActiveRecord: 0.8ms | Allocations: 283)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: user
+Did you mean?  users):
+  
+app/controllers/users_controller.rb:51:in `user_params'
+app/controllers/users_controller.rb:18:in `create'
+Started POST "/users/?name=akif&username=akif&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:31:29 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"akif", "username"=>"akif", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "akif"], ["email", "usman.ahmed@invozone.com"], ["username", "akif"], ["created_at", "2022-10-07 06:31:29.949360"], ["updated_at", "2022-10-07 06:31:29.949360"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+Completed 201 Created in 17ms (Views: 0.5ms | ActiveRecord: 2.1ms | Allocations: 5474)
+
+
+  [1m[36mUser Count (1.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "users"[0m
+Started POST "/users/?name=hamza&username=hamza&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:33:26 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza", "username"=>"hamza", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza"], ["created_at", "2022-10-07 06:33:26.990851"], ["updated_at", "2022-10-07 06:33:26.990851"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+Completed 500 Internal Server Error in 51ms (ActiveRecord: 2.3ms | Allocations: 19576)
+
+
+  
+NoMethodError (undefined method `welcome_mail' for UserMailer:Class):
+  
+app/controllers/users_controller.rb:22:in `create'
+Started GET "/users/?id=1" for ::1 at 2022-10-07 11:34:03 +0500
+Processing by UsersController#index as */*
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/controllers/users_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.8ms | Allocations: 3986)
+
+
+Started POST "/users/?name=hamza&username=hamza&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:34:27 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza", "username"=>"hamza", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza"], ["created_at", "2022-10-07 06:34:27.621603"], ["updated_at", "2022-10-07 06:34:27.621603"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+UserMailer#welcome_mail: processed outbound mail in 3.9ms
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 1.1ms | Allocations: 4359)
+
+
+  
+ActionView::MissingTemplate (Missing template user_mailer/welcome_mail with "mailer".
+
+Searched in:
+  * "user_mailer"
+):
+  
+app/mailers/user_mailer.rb:8:in `welcome_mail'
+app/controllers/users_controller.rb:23:in `respond_to?'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `create'
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:36:37 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 06:36:37.708379"], ["updated_at", "2022-10-07 06:36:37.708379"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+UserMailer#welcome_mail: processed outbound mail in 0.7ms
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 1.7ms | Allocations: 5973)
+
+
+  
+ActionView::MissingTemplate (Missing template user_mailer/welcome_mail with "mailer".
+
+Searched in:
+  * "user_mailer"
+):
+  
+app/mailers/user_mailer.rb:10:in `welcome_mail'
+app/controllers/users_controller.rb:23:in `respond_to?'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `create'
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:38:01 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 06:38:01.975263"], ["updated_at", "2022-10-07 06:38:01.975263"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+UserMailer#welcome_mail: processed outbound mail in 6.1ms
+Completed 500 Internal Server Error in 50ms (ActiveRecord: 1.8ms | Allocations: 20722)
+
+
+  
+ActionView::MissingTemplate (Missing template user_mailer/welcome_mail with "mailer".
+
+Searched in:
+  * "user_mailer"
+):
+  
+app/mailers/user_mailer.rb:10:in `welcome_mail'
+app/controllers/users_controller.rb:23:in `respond_to?'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `create'
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:40:13 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 06:40:13.200243"], ["updated_at", "2022-10-07 06:40:13.200243"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+UserMailer#welcome_mail: processed outbound mail in 7.7ms
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 1.2ms | Allocations: 2470)
+
+
+  
+ActionView::MissingTemplate (Missing template user_mailer/welcome_mail with "mailer".
+
+Searched in:
+  * "user_mailer"
+):
+  
+app/mailers/user_mailer.rb:10:in `welcome_mail'
+app/controllers/users_controller.rb:23:in `respond_to?'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `create'
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:42:18 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 06:42:18.879413"], ["updated_at", "2022-10-07 06:42:18.879413"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+UserMailer#welcome_mail: processed outbound mail in 7.7ms
+Completed 500 Internal Server Error in 51ms (ActiveRecord: 2.3ms | Allocations: 20755)
+
+
+  
+ActionView::MissingTemplate (Missing template user_mailer/welcome_mail with "mailer".
+
+Searched in:
+  * "user_mailer"
+):
+  
+app/mailers/user_mailer.rb:10:in `welcome_mail'
+app/controllers/users_controller.rb:23:in `respond_to?'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `create'
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:47:55 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 06:47:55.746740"], ["updated_at", "2022-10-07 06:47:55.746740"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+UserMailer#welcome_mail: processed outbound mail in 1.2ms
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 1.1ms | Allocations: 2471)
+
+
+  
+ActionView::MissingTemplate (Missing template user_mailer/welcome_mail with "mailer".
+
+Searched in:
+  * "user_mailer"
+):
+  
+app/mailers/user_mailer.rb:10:in `welcome_mail'
+app/controllers/users_controller.rb:23:in `respond_to?'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `puts'
+app/controllers/users_controller.rb:23:in `create'
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:48:20 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 06:48:20.947302"], ["updated_at", "2022-10-07 06:48:20.947302"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 1.9ms | Allocations: 9220)
+
+
+  
+NoMethodError (undefined method `welcome_mail' for UserMailer:Class):
+  
+app/controllers/users_controller.rb:22:in `create'
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 11:49:20 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 06:49:20.251318"], ["updated_at", "2022-10-07 06:49:20.251318"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 1.6ms | Allocations: 465)
+  Rendered layout layouts/mailer.html.erb (Duration: 2.3ms | Allocations: 704)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.4ms | Allocations: 94)
+  Rendered layout layouts/mailer.text.erb (Duration: 1.1ms | Allocations: 286)
+UserMailer#welcome_email: processed outbound mail in 12.9ms
+Completed 201 Created in 34ms (Views: 0.8ms | ActiveRecord: 1.8ms | Allocations: 13746)
+
+
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 12:01:30 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 07:01:30.841080"], ["updated_at", "2022-10-07 07:01:30.841080"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 32)
+  Rendered layout layouts/mailer.html.erb (Duration: 0.3ms | Allocations: 131)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.1ms | Allocations: 8)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.3ms | Allocations: 93)
+UserMailer#welcome_email: processed outbound mail in 4.4ms
+Delivered mail 633fcecad1d36_15e2b249099766@MP15-UsmanA-SE-216.local.mail (7.6ms)
+Date: Fri, 07 Oct 2022 12:01:30 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <633fcecad1d36_15e2b249099766@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_633fcecad157a_15e2b249099666";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_633fcecad157a_15e2b249099666
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_633fcecad157a_15e2b249099666
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza1</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_633fcecad157a_15e2b249099666--
+
+Completed 201 Created in 32ms (Views: 0.7ms | ActiveRecord: 1.3ms | Allocations: 11791)
+
+
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 12:07:44 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 07:07:44.840325"], ["updated_at", "2022-10-07 07:07:44.840325"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 21)
+  Rendered layout layouts/mailer.html.erb (Duration: 0.2ms | Allocations: 110)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.1ms | Allocations: 91)
+UserMailer#welcome_email: processed outbound mail in 2.3ms
+Delivered mail 633fd040ced1b_15e2b246899943@MP15-UsmanA-SE-216.local.mail (2.4ms)
+Date: Fri, 07 Oct 2022 12:07:44 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <633fd040ced1b_15e2b246899943@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_633fd040ce6f7_15e2b24689989d";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_633fd040ce6f7_15e2b24689989d
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_633fd040ce6f7_15e2b24689989d
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza1</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_633fd040ce6f7_15e2b24689989d--
+
+Completed 201 Created in 12ms (Views: 0.5ms | ActiveRecord: 1.7ms | Allocations: 7781)
+
+
+Started POST "/users/?name=hamza1&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-07 12:10:46 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza1", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza1"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-07 07:10:46.884008"], ["updated_at", "2022-10-07 07:10:46.884008"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 32)
+  Rendered layout layouts/mailer.html.erb (Duration: 0.2ms | Allocations: 131)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.0ms | Allocations: 8)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.3ms | Allocations: 93)
+UserMailer#welcome_email: processed outbound mail in 3.0ms
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 2.0ms | Allocations: 9227)
+
+
+  
+NoMethodError (undefined method `send_mail' for #<Mail::Message:46000, Multipart: true, Headers: <From: noreply@example.com>, <To: usman.ahmed@invozone.com>, <Subject: welcome to ROCKY shop>, <Mime-Version: 1.0>, <Content-Type: multipart/alternative; boundary="--==_mimepart_633fd0f6d9f8b_15e2b24a4100012"; charset=UTF-8>>):
+  
+app/controllers/users_controller.rb:22:in `create'
+Started POST "/users/?name=hamza2&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 12:08:48 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza2", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza2"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 07:08:49.068745"], ["updated_at", "2022-10-10 07:08:49.068745"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 1.4ms | Allocations: 465)
+  Rendered layout layouts/mailer.html.erb (Duration: 2.1ms | Allocations: 705)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.6ms | Allocations: 94)
+  Rendered layout layouts/mailer.text.erb (Duration: 1.4ms | Allocations: 286)
+UserMailer#welcome_email: processed outbound mail in 16.7ms
+Completed 500 Internal Server Error in 62ms (ActiveRecord: 1.6ms | Allocations: 26490)
+
+
+  
+NoMethodError (undefined method `send_mail' for #<Mail::Message:17380, Multipart: true, Headers: <From: noreply@example.com>, <To: usman.ahmed@invozone.com>, <Subject: welcome to ROCKY shop>, <Mime-Version: 1.0>, <Content-Type: multipart/alternative; boundary="--==_mimepart_6343c5011ac55_13a02490408c0"; charset=UTF-8>>):
+  
+app/controllers/users_controller.rb:22:in `create'
+Started POST "/users/?name=hamza2&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 12:11:20 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza2", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza2"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 07:11:20.692012"], ["updated_at", "2022-10-10 07:11:20.692012"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.6ms | Allocations: 235)
+  Rendered layout layouts/mailer.html.erb (Duration: 1.2ms | Allocations: 453)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.4ms | Allocations: 95)
+  Rendered layout layouts/mailer.text.erb (Duration: 1.0ms | Allocations: 283)
+UserMailer#welcome_email: processed outbound mail in 5.3ms
+Delivered mail 6343c598ac377_13a02468410a0@MP15-UsmanA-SE-216.local.mail (2983.6ms)
+Date: Mon, 10 Oct 2022 12:11:20 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343c598ac377_13a02468410a0@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343c598ab7fd_13a024684093c";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343c598ab7fd_13a024684093c
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343c598ab7fd_13a024684093c
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza2</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343c598ab7fd_13a024684093c--
+
+Completed 201 Created in 3010ms (Views: 2.5ms | ActiveRecord: 1.9ms | Allocations: 16819)
+
+
+Started POST "/users/?name=hamza2&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 12:46:48 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza2", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza2"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 07:46:48.220827"], ["updated_at", "2022-10-10 07:46:48.220827"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 3d5f1eae-170f-43c3-9bbd-abbfb4d88700) to Async(welcome_mail) at 2022-10-10 07:47:48 UTC
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 32)
+  Rendered layout layouts/mailer.html.erb (Duration: 0.2ms | Allocations: 131)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.0ms | Allocations: 8)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.2ms | Allocations: 93)
+UserMailer#welcome_email: processed outbound mail in 2.8ms
+Delivered mail 6343cde839d87_13a024a4412e8@MP15-UsmanA-SE-216.local.mail (4976.4ms)
+Date: Mon, 10 Oct 2022 12:46:48 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343cde839d87_13a024a4412e8@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343cde8397a9_13a024a4411ee";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343cde8397a9_13a024a4411ee
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343cde8397a9_13a024a4411ee
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza2</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343cde8397a9_13a024a4411ee--
+
+Completed 201 Created in 5000ms (Views: 0.6ms | ActiveRecord: 1.3ms | Allocations: 15155)
+
+
+[ActiveJob] [SendWelcomeMailJob] [3d5f1eae-170f-43c3-9bbd-abbfb4d88700] Performing SendWelcomeMailJob (Job ID: 3d5f1eae-170f-43c3-9bbd-abbfb4d88700) from Async(welcome_mail) enqueued at 2022-10-10T07:46:48Z
+[ActiveJob] [SendWelcomeMailJob] [3d5f1eae-170f-43c3-9bbd-abbfb4d88700] Error performing SendWelcomeMailJob (Job ID: 3d5f1eae-170f-43c3-9bbd-abbfb4d88700) from Async(welcome_mail) in 9.04ms: NoMethodError (undefined method `put' for #<SendWelcomeMailJob:0x000000010c17dcb8 @arguments=[], @job_id="3d5f1eae-170f-43c3-9bbd-abbfb4d88700", @queue_name="welcome_mail", @priority=nil, @executions=1, @exception_executions={}, @timezone="UTC", @provider_job_id="40cd0656-5870-4737-9c6f-b4bcb18bdeeb", @serialized_arguments=nil, @locale="en", @enqueued_at="2022-10-10T07:46:48Z">
+
+    put self.inspect
+    ^^^
+Did you mean?  puts
+               putc):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:8:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+Started POST "/users/?name=hamza3&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 12:48:46 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza3", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza3"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 07:48:46.411990"], ["updated_at", "2022-10-10 07:48:46.411990"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 60468d85-da39-43df-b4b3-cc788661b1f3) to Async(welcome_mail) at 2022-10-10 07:49:46 UTC
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 32)
+  Rendered layout layouts/mailer.html.erb (Duration: 0.6ms | Allocations: 131)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.1ms | Allocations: 8)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.3ms | Allocations: 93)
+UserMailer#welcome_email: processed outbound mail in 4.1ms
+Delivered mail 6343ce5e67814_13a0247c414ef@MP15-UsmanA-SE-216.local.mail (2784.3ms)
+Date: Mon, 10 Oct 2022 12:48:46 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343ce5e67814_13a0247c414ef@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343ce5e6717a_13a0247c41322";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343ce5e6717a_13a0247c41322
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343ce5e6717a_13a0247c41322
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza3</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343ce5e6717a_13a0247c41322--
+
+Completed 201 Created in 2804ms (Views: 0.8ms | ActiveRecord: 1.8ms | Allocations: 15017)
+
+
+[ActiveJob] [SendWelcomeMailJob] [60468d85-da39-43df-b4b3-cc788661b1f3] Performing SendWelcomeMailJob (Job ID: 60468d85-da39-43df-b4b3-cc788661b1f3) from Async(welcome_mail) enqueued at 2022-10-10T07:48:46Z
+[ActiveJob] [SendWelcomeMailJob] [60468d85-da39-43df-b4b3-cc788661b1f3] UserMailer#welcome_email: processed outbound mail in 3.1ms
+[ActiveJob] [SendWelcomeMailJob] [60468d85-da39-43df-b4b3-cc788661b1f3] Error performing SendWelcomeMailJob (Job ID: 60468d85-da39-43df-b4b3-cc788661b1f3) from Async(welcome_mail) in 4.12ms: NoMethodError (undefined method `email' for #<SendWelcomeMailJob:0x000000010c4a67c8 @arguments=[], @job_id="60468d85-da39-43df-b4b3-cc788661b1f3", @queue_name="welcome_mail", @priority=nil, @executions=1, @exception_executions={}, @timezone="UTC", @provider_job_id="c4e410e6-b700-48ba-a5e3-f2e14af824f6", @serialized_arguments=nil, @locale="en", @enqueued_at="2022-10-10T07:48:46Z">
+
+    mail(to: @user.email, subject: 'welcome to ROCKY shop')
+                  ^^^^^^):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/mailers/user_mailer.rb:10:in `welcome_email'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:215:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:234:in `block in process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/rendering.rb:20:in `with_renderer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:233:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:151:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:25:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:17:in `handle_exceptions'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:24:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionview-7.0.4/lib/action_view/rendering.rb:39:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:646:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:645:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:128:in `block in processed_mailer'
+<internal:kernel>:90:in `tap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:127:in `processed_mailer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:30:in `__getobj__'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0/delegate.rb:101:in `respond_to_missing?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `respond_to?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+Started POST "/users/?name=hamza3&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 12:58:59 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza3", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza3"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 07:58:59.407451"], ["updated_at", "2022-10-10 07:58:59.407451"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 2a339c2d-9835-47e8-83b0-3768d0aab6f8) to Async(welcome_mail) at 2022-10-10 07:59:59 UTC
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 32)
+  Rendered layout layouts/mailer.html.erb (Duration: 0.4ms | Allocations: 130)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.0ms | Allocations: 8)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.3ms | Allocations: 93)
+UserMailer#welcome_email: processed outbound mail in 4.4ms
+Delivered mail 6343d0c366eb9_13a024a441673@MP15-UsmanA-SE-216.local.mail (7339.4ms)
+Date: Mon, 10 Oct 2022 12:58:59 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343d0c366eb9_13a024a441673@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343d0c36683c_13a024a4415f4";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343d0c36683c_13a024a4415f4
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343d0c36683c_13a024a4415f4
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza3</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343d0c36683c_13a024a4415f4--
+
+Completed 201 Created in 7362ms (Views: 0.6ms | ActiveRecord: 1.5ms | Allocations: 14687)
+
+
+[ActiveJob] [SendWelcomeMailJob] [2a339c2d-9835-47e8-83b0-3768d0aab6f8] Performing SendWelcomeMailJob (Job ID: 2a339c2d-9835-47e8-83b0-3768d0aab6f8) from Async(welcome_mail) enqueued at 2022-10-10T07:58:59Z
+[ActiveJob] [SendWelcomeMailJob] [2a339c2d-9835-47e8-83b0-3768d0aab6f8] Error performing SendWelcomeMailJob (Job ID: 2a339c2d-9835-47e8-83b0-3768d0aab6f8) from Async(welcome_mail) in 0.42ms: ArgumentError (wrong number of arguments (given 0, expected 1)):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:4:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+Started POST "/users/?name=hamza3&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:22:31 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza3", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza3"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:22:31.408250"], ["updated_at", "2022-10-10 08:22:31.408250"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 454c56c6-5839-4707-9a4e-1f3472e3c059) to Async(welcome_mail) at 2022-10-10 08:24:31 UTC with arguments: 20
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 1.8ms | Allocations: 464)
+  Rendered layout layouts/mailer.html.erb (Duration: 2.6ms | Allocations: 704)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.6ms | Allocations: 94)
+  Rendered layout layouts/mailer.text.erb (Duration: 1.2ms | Allocations: 286)
+UserMailer#welcome_email: processed outbound mail in 15.9ms
+Delivered mail 6343d64770259_1be5249021620@MP15-UsmanA-SE-216.local.mail (4869.0ms)
+Date: Mon, 10 Oct 2022 13:22:31 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343d64770259_1be5249021620@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343d6476f5ef_1be52490215ed";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343d6476f5ef_1be52490215ed
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343d6476f5ef_1be52490215ed
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza3</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343d6476f5ef_1be52490215ed--
+
+Completed 201 Created in 4939ms (Views: 0.9ms | ActiveRecord: 1.8ms | Allocations: 34096)
+
+
+[ActiveJob] [SendWelcomeMailJob] [454c56c6-5839-4707-9a4e-1f3472e3c059] Performing SendWelcomeMailJob (Job ID: 454c56c6-5839-4707-9a4e-1f3472e3c059) from Async(welcome_mail) enqueued at 2022-10-10T08:22:31Z with arguments: 20
+[ActiveJob] [SendWelcomeMailJob] [454c56c6-5839-4707-9a4e-1f3472e3c059] Error performing SendWelcomeMailJob (Job ID: 454c56c6-5839-4707-9a4e-1f3472e3c059) from Async(welcome_mail) in 4.79ms: NameError (undefined local variable or method `user' for #<SendWelcomeMailJob:0x000000010b5939c0 @arguments=[20], @job_id="454c56c6-5839-4707-9a4e-1f3472e3c059", @queue_name="welcome_mail", @priority=nil, @executions=1, @exception_executions={}, @timezone="UTC", @provider_job_id="79a7f6e8-c236-4c2e-9bb1-a3cabcdcf7cb", @serialized_arguments=nil, @locale="en", @enqueued_at="2022-10-10T08:22:31Z">
+
+    mail_response = UserMailer.welcome_email(user)
+                                             ^^^^
+Did you mean?  user_id):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:6:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+Started POST "/users/?name=hamza4&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:29:07 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza4", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.5ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza4"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:29:07.930406"], ["updated_at", "2022-10-10 08:29:07.930406"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: c76f1285-052d-4ecc-ba22-0bcdb0c23291) to Async(welcome_mail) at 2022-10-10 08:31:07 UTC with arguments: 21
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.8ms | Allocations: 464)
+  Rendered layout layouts/mailer.html.erb (Duration: 1.2ms | Allocations: 704)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.4ms | Allocations: 94)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.9ms | Allocations: 286)
+UserMailer#welcome_email: processed outbound mail in 11.1ms
+Delivered mail 6343d7d3ed0b0_1c47247c24921@MP15-UsmanA-SE-216.local.mail (2950.2ms)
+Date: Mon, 10 Oct 2022 13:29:07 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343d7d3ed0b0_1c47247c24921@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343d7d3ec5f7_1c47247c248f6";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343d7d3ec5f7_1c47247c248f6
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343d7d3ec5f7_1c47247c248f6
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza4</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343d7d3ec5f7_1c47247c248f6--
+
+Completed 201 Created in 3008ms (Views: 1.0ms | ActiveRecord: 1.8ms | Allocations: 34052)
+
+
+[ActiveJob] [SendWelcomeMailJob] [c76f1285-052d-4ecc-ba22-0bcdb0c23291] Performing SendWelcomeMailJob (Job ID: c76f1285-052d-4ecc-ba22-0bcdb0c23291) from Async(welcome_mail) enqueued at 2022-10-10T08:29:07Z with arguments: 21
+[ActiveJob] [SendWelcomeMailJob] [c76f1285-052d-4ecc-ba22-0bcdb0c23291] UserMailer#welcome_email: processed outbound mail in 1.6ms
+[ActiveJob] [SendWelcomeMailJob] [c76f1285-052d-4ecc-ba22-0bcdb0c23291] Error performing SendWelcomeMailJob (Job ID: c76f1285-052d-4ecc-ba22-0bcdb0c23291) from Async(welcome_mail) in 5.37ms: NoMethodError (undefined method `email' for 21:Integer
+
+    mail(to: @user.email, subject: 'welcome to ROCKY shop')
+                  ^^^^^^):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/mailers/user_mailer.rb:10:in `welcome_email'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:215:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:234:in `block in process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/rendering.rb:20:in `with_renderer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:233:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:151:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:25:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:17:in `handle_exceptions'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:24:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionview-7.0.4/lib/action_view/rendering.rb:39:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:646:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:645:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:128:in `block in processed_mailer'
+<internal:kernel>:90:in `tap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:127:in `processed_mailer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:30:in `__getobj__'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0/delegate.rb:101:in `respond_to_missing?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `respond_to?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+Started POST "/users/?name=hamza4&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:31:15 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza4", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza4"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:31:15.699529"], ["updated_at", "2022-10-10 08:31:15.699529"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 92fad7fa-90d4-4c56-b79b-33969dd7155c) to Async(welcome_mail) at 2022-10-10 08:33:15 UTC with arguments: 22
+  Rendering layout layouts/mailer.html.erb
+  Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.5ms | Allocations: 235)
+  Rendered layout layouts/mailer.html.erb (Duration: 1.0ms | Allocations: 453)
+  Rendering layout layouts/mailer.text.erb
+  Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+  Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.2ms | Allocations: 95)
+  Rendered layout layouts/mailer.text.erb (Duration: 0.6ms | Allocations: 283)
+UserMailer#welcome_email: processed outbound mail in 5.5ms
+Delivered mail 6343d853ae17f_1c4724a425141@MP15-UsmanA-SE-216.local.mail (3544.1ms)
+Date: Mon, 10 Oct 2022 13:31:15 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343d853ae17f_1c4724a425141@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343d853ada78_1c4724a425034";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343d853ada78_1c4724a425034
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343d853ada78_1c4724a425034
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza4</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343d853ada78_1c4724a425034--
+
+Completed 201 Created in 3565ms (Views: 0.6ms | ActiveRecord: 1.6ms | Allocations: 16074)
+
+
+Started POST "/users/?name=hamza4&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:32:07 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza4", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza4"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:32:07.374579"], ["updated_at", "2022-10-10 08:32:07.374579"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 9ac0d84a-7459-4c37-a0b8-43bbec6dac99) to Async(welcome_mail) at 2022-10-10 08:34:07 UTC with arguments: 23
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 1.8ms | Allocations: 7650)
+
+
+  
+NameError (undefined local variable or method `mail_response' for #<UsersController:0x0000000000f820>
+
+      render json: @user, status: :created, location: @user, mail: mail_response
+                                                                   ^^^^^^^^^^^^^
+Did you mean?  @_response):
+  
+app/controllers/users_controller.rb:25:in `create'
+Started POST "/users/?name=hamza4&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:32:27 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza4", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza4"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:32:28.050244"], ["updated_at", "2022-10-10 08:32:28.050244"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 52a5a32b-9cf3-4c05-867b-7c18af58c643) to Async(welcome_mail) at 2022-10-10 08:34:28 UTC with arguments: 24
+Completed 201 Created in 10ms (Views: 0.4ms | ActiveRecord: 1.9ms | Allocations: 5563)
+
+
+[ActiveJob] [SendWelcomeMailJob] [92fad7fa-90d4-4c56-b79b-33969dd7155c] Performing SendWelcomeMailJob (Job ID: 92fad7fa-90d4-4c56-b79b-33969dd7155c) from Async(welcome_mail) enqueued at 2022-10-10T08:31:15Z with arguments: 22
+[ActiveJob] [SendWelcomeMailJob] [92fad7fa-90d4-4c56-b79b-33969dd7155c] UserMailer#welcome_email: processed outbound mail in 1.2ms
+[ActiveJob] [SendWelcomeMailJob] [92fad7fa-90d4-4c56-b79b-33969dd7155c] Error performing SendWelcomeMailJob (Job ID: 92fad7fa-90d4-4c56-b79b-33969dd7155c) from Async(welcome_mail) in 12.58ms: NoMethodError (undefined method `email' for 22:Integer
+
+    mail(to: @user.email, subject: 'welcome to ROCKY shop')
+                  ^^^^^^):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/mailers/user_mailer.rb:10:in `welcome_email'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:215:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:234:in `block in process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/rendering.rb:20:in `with_renderer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:233:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:151:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:25:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:17:in `handle_exceptions'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:24:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionview-7.0.4/lib/action_view/rendering.rb:39:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:646:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:645:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:128:in `block in processed_mailer'
+<internal:kernel>:90:in `tap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:127:in `processed_mailer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:30:in `__getobj__'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0/delegate.rb:101:in `respond_to_missing?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `respond_to?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+[ActiveJob] [SendWelcomeMailJob] [9ac0d84a-7459-4c37-a0b8-43bbec6dac99] Performing SendWelcomeMailJob (Job ID: 9ac0d84a-7459-4c37-a0b8-43bbec6dac99) from Async(welcome_mail) enqueued at 2022-10-10T08:32:07Z with arguments: 23
+[ActiveJob] [SendWelcomeMailJob] [9ac0d84a-7459-4c37-a0b8-43bbec6dac99] UserMailer#welcome_email: processed outbound mail in 1.7ms
+[ActiveJob] [SendWelcomeMailJob] [9ac0d84a-7459-4c37-a0b8-43bbec6dac99] Error performing SendWelcomeMailJob (Job ID: 9ac0d84a-7459-4c37-a0b8-43bbec6dac99) from Async(welcome_mail) in 2.63ms: NoMethodError (undefined method `email' for 23:Integer
+
+    mail(to: @user.email, subject: 'welcome to ROCKY shop')
+                  ^^^^^^):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/mailers/user_mailer.rb:10:in `welcome_email'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:215:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:234:in `block in process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/rendering.rb:20:in `with_renderer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:233:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:151:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:25:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:17:in `handle_exceptions'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:24:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionview-7.0.4/lib/action_view/rendering.rb:39:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:646:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:645:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:128:in `block in processed_mailer'
+<internal:kernel>:90:in `tap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:127:in `processed_mailer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:30:in `__getobj__'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0/delegate.rb:101:in `respond_to_missing?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `respond_to?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+[ActiveJob] [SendWelcomeMailJob] [52a5a32b-9cf3-4c05-867b-7c18af58c643] Performing SendWelcomeMailJob (Job ID: 52a5a32b-9cf3-4c05-867b-7c18af58c643) from Async(welcome_mail) enqueued at 2022-10-10T08:32:28Z with arguments: 24
+[ActiveJob] [SendWelcomeMailJob] [52a5a32b-9cf3-4c05-867b-7c18af58c643] UserMailer#welcome_email: processed outbound mail in 1.6ms
+[ActiveJob] [SendWelcomeMailJob] [52a5a32b-9cf3-4c05-867b-7c18af58c643] Error performing SendWelcomeMailJob (Job ID: 52a5a32b-9cf3-4c05-867b-7c18af58c643) from Async(welcome_mail) in 2.51ms: NoMethodError (undefined method `email' for 24:Integer
+
+    mail(to: @user.email, subject: 'welcome to ROCKY shop')
+                  ^^^^^^):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/mailers/user_mailer.rb:10:in `welcome_email'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:215:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:234:in `block in process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/rendering.rb:20:in `with_renderer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actiontext-7.0.4/lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/callbacks.rb:233:in `process_action'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionpack-7.0.4/lib/abstract_controller/base.rb:151:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:25:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:17:in `handle_exceptions'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/rescuable.rb:24:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionview-7.0.4/lib/action_view/rendering.rb:39:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:646:in `block in process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/base.rb:645:in `process'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:128:in `block in processed_mailer'
+<internal:kernel>:90:in `tap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:127:in `processed_mailer'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/actionmailer-7.0.4/lib/action_mailer/message_delivery.rb:30:in `__getobj__'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0/delegate.rb:101:in `respond_to_missing?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `respond_to?'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `puts'
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:9:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+Started POST "/users/?name=hamza4&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:35:16 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza4", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza4"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:35:16.529333"], ["updated_at", "2022-10-10 08:35:16.529333"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: a9de28c7-acff-4497-b0c9-d30369841fc0) to Async(welcome_mail) at 2022-10-10 08:37:16 UTC with arguments: #<GlobalID:0x000000010a3b96a0 @uri=#<URI::GID gid://test-mailer/User/25>>
+Completed 201 Created in 11ms (Views: 0.5ms | ActiveRecord: 1.8ms | Allocations: 5772)
+
+
+[ActiveJob] [SendWelcomeMailJob] [a9de28c7-acff-4497-b0c9-d30369841fc0]   [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 25], ["LIMIT", 1]]
+[ActiveJob] [SendWelcomeMailJob] [a9de28c7-acff-4497-b0c9-d30369841fc0] Performing SendWelcomeMailJob (Job ID: a9de28c7-acff-4497-b0c9-d30369841fc0) from Async(welcome_mail) enqueued at 2022-10-10T08:35:16Z with arguments: #<GlobalID:0x000000010a419b68 @uri=#<URI::GID gid://test-mailer/User/25>>
+[ActiveJob] [SendWelcomeMailJob] [a9de28c7-acff-4497-b0c9-d30369841fc0] Error performing SendWelcomeMailJob (Job ID: a9de28c7-acff-4497-b0c9-d30369841fc0) from Async(welcome_mail) in 21.96ms: NameError (undefined local variable or method `user_id' for #<SendWelcomeMailJob:0x000000010a3da738 @arguments=[#<User id: 25, name: "hamza4", email: "usman.ahmed@invozone.com", username: "hamza1", created_at: "2022-10-10 08:35:16.529333000 +0000", updated_at: "2022-10-10 08:35:16.529333000 +0000">], @job_id="a9de28c7-acff-4497-b0c9-d30369841fc0", @queue_name="welcome_mail", @priority=nil, @executions=1, @exception_executions={}, @timezone="UTC", @provider_job_id="89f840b2-d056-41fd-b03c-4e949af29066", @serialized_arguments=nil, @locale="en", @enqueued_at="2022-10-10T08:35:16Z">
+
+    puts user_id
+         ^^^^^^^
+Did you mean?  user):
+/Users/usmanahmed/Desktop/testing/test_mailer/app/jobs/send_welcome_mail_job.rb:8:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:59:in `block in _perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/i18n-1.12.0/lib/i18n.rb:322:in `with_locale'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/translation.rb:9:in `block (2 levels) in <module:Translation>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/core_ext/time/zones.rb:66:in `use_zone'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/timezones.rb:9:in `block (2 levels) in <module:Timezones>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:58:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:20:in `_perform_job'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:46:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:25:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `block in instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/notifications.rb:206:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:35:in `instrument'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/instrumentation.rb:14:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `block in perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:37:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/tagged_logging.rb:99:in `tagged'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:25:in `tag_logger'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/logging.rb:18:in `perform_now'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:54:in `block (4 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:72:in `block in wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/execution_wrapper.rb:92:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/reloader.rb:71:in `wrap'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/railtie.rb:53:in `block (3 levels) in <class:Railtie>'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `instance_exec'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activesupport-7.0.4/lib/active_support/callbacks.rb:138:in `run_callbacks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/execution.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/activejob-7.0.4/lib/active_job/queue_adapters/async_adapter.rb:70:in `perform'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:24:in `block in execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `block in synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/synchronization/mutex_lockable_object.rb:47:in `synchronize'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/safe_task_executor.rb:22:in `execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/ivar.rb:169:in `safe_execute'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/scheduled_task.rb:298:in `process_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/timer_set.rb:165:in `block (2 levels) in process_tasks'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:352:in `run_task'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:343:in `block (3 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `loop'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:334:in `block (2 levels) in create_worker'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `catch'
+/Users/usmanahmed/.rvm/rubies/ruby-3.1.2/lib/ruby/gems/3.1.0/gems/concurrent-ruby-1.1.10/lib/concurrent-ruby/concurrent/executor/ruby_thread_pool_executor.rb:333:in `block in create_worker'
+Started POST "/users/?name=hamza4&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:38:02 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza4", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.3ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza4"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:38:02.692477"], ["updated_at", "2022-10-10 08:38:02.692477"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 0d2efe65-9f17-4ce2-b1af-345db60c64c4) to Async(welcome_mail) at 2022-10-10 08:39:02 UTC with arguments: #<GlobalID:0x0000000109926cb0 @uri=#<URI::GID gid://test-mailer/User/26>>
+Completed 201 Created in 11ms (Views: 0.4ms | ActiveRecord: 1.9ms | Allocations: 5803)
+
+
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 26], ["LIMIT", 1]]
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4] Performing SendWelcomeMailJob (Job ID: 0d2efe65-9f17-4ce2-b1af-345db60c64c4) from Async(welcome_mail) enqueued at 2022-10-10T08:38:02Z with arguments: #<GlobalID:0x000000010997d948 @uri=#<URI::GID gid://test-mailer/User/26>>
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendering layout layouts/mailer.html.erb
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 26)
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendered layout layouts/mailer.html.erb (Duration: 0.4ms | Allocations: 145)
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendering layout layouts/mailer.text.erb
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.0ms | Allocations: 8)
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4]   Rendered layout layouts/mailer.text.erb (Duration: 0.2ms | Allocations: 113)
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4] UserMailer#welcome_email: processed outbound mail in 3.4ms
+[ActiveJob] [SendWelcomeMailJob] [0d2efe65-9f17-4ce2-b1af-345db60c64c4] Performed SendWelcomeMailJob (Job ID: 0d2efe65-9f17-4ce2-b1af-345db60c64c4) from Async(welcome_mail) in 16.59ms
+Started POST "/users/?name=hamza5&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:44:11 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza5", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza5"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:44:11.272685"], ["updated_at", "2022-10-10 08:44:11.272685"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: d74817b7-ff11-4e1f-a014-5100de7627c4) to Async(welcome_mail) at 2022-10-10 08:45:11 UTC with arguments: #<GlobalID:0x0000000109e3be58 @uri=#<URI::GID gid://test-mailer/User/27>>
+Completed 201 Created in 11ms (Views: 0.4ms | ActiveRecord: 1.9ms | Allocations: 5291)
+
+
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 27], ["LIMIT", 1]]
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4] Performing SendWelcomeMailJob (Job ID: d74817b7-ff11-4e1f-a014-5100de7627c4) from Async(welcome_mail) enqueued at 2022-10-10T08:44:11Z with arguments: #<GlobalID:0x0000000109e69240 @uri=#<URI::GID gid://test-mailer/User/27>>
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendering layout layouts/mailer.html.erb
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 26)
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendered layout layouts/mailer.html.erb (Duration: 0.2ms | Allocations: 144)
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendering layout layouts/mailer.text.erb
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.0ms | Allocations: 8)
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4]   Rendered layout layouts/mailer.text.erb (Duration: 0.2ms | Allocations: 113)
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4] UserMailer#welcome_email: processed outbound mail in 3.1ms
+[ActiveJob] [SendWelcomeMailJob] [d74817b7-ff11-4e1f-a014-5100de7627c4] Performed SendWelcomeMailJob (Job ID: d74817b7-ff11-4e1f-a014-5100de7627c4) from Async(welcome_mail) in 18.54ms
+Started POST "/users/?name=hamza6&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 13:46:52 +0500
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza6", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "hamza6"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 08:46:52.585190"], ["updated_at", "2022-10-10 08:46:52.585190"]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: fdb16b43-797d-40f6-9e85-210b6199998b) to Async(welcome_mail) at 2022-10-10 08:47:52 UTC with arguments: #<GlobalID:0x000000010a0c2cd0 @uri=#<URI::GID gid://test-mailer/User/28>>
+Completed 201 Created in 12ms (Views: 0.4ms | ActiveRecord: 2.6ms | Allocations: 5724)
+
+
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 28], ["LIMIT", 1]]
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b] Performing SendWelcomeMailJob (Job ID: fdb16b43-797d-40f6-9e85-210b6199998b) from Async(welcome_mail) enqueued at 2022-10-10T08:46:52Z with arguments: #<GlobalID:0x000000010a0ead70 @uri=#<URI::GID gid://test-mailer/User/28>>
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendering layout layouts/mailer.html.erb
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 26)
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendered layout layouts/mailer.html.erb (Duration: 0.3ms | Allocations: 144)
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendering layout layouts/mailer.text.erb
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.0ms | Allocations: 8)
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b]   Rendered layout layouts/mailer.text.erb (Duration: 0.2ms | Allocations: 113)
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b] UserMailer#welcome_email: processed outbound mail in 3.0ms
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b] Delivered mail 6343dc3896552_1c474420257cb@MP15-UsmanA-SE-216.local.mail (5142.5ms)
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b] Date: Mon, 10 Oct 2022 13:47:52 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343dc3896552_1c474420257cb@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343dc3895fd2_1c47442025633";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343dc3895fd2_1c47442025633
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343dc3895fd2_1c47442025633
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza6</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343dc3895fd2_1c47442025633--
+
+[ActiveJob] [SendWelcomeMailJob] [fdb16b43-797d-40f6-9e85-210b6199998b] Performed SendWelcomeMailJob (Job ID: fdb16b43-797d-40f6-9e85-210b6199998b) from Async(welcome_mail) in 5159.57ms
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to AddWelcomeStatus (20221010101041)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.7ms)[0m  [1m[35mALTER TABLE "users" ADD "welcome_mail" boolean[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20221010101041"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" ORDER BY "users"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" ORDER BY "users"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Update (0.5ms)[0m  [1m[33mUPDATE "users" SET "updated_at" = ?, "welcome_mail" = ? WHERE "users"."id" = ?[0m  [["updated_at", "2022-10-10 10:14:27.254265"], ["welcome_mail", 1], ["id", 28]]
+  [1m[36mTRANSACTION (1.2ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" ORDER BY "users"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Update (0.4ms)[0m  [1m[33mUPDATE "users" SET "updated_at" = ?, "welcome_mail" = ? WHERE "users"."id" = ?[0m  [["updated_at", "2022-10-10 10:14:41.292352"], ["welcome_mail", 0], ["id", 28]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/users/?name=hamza6&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 15:19:59 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza6", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (0.6ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at", "welcome_mail") VALUES (?, ?, ?, ?, ?, ?)[0m  [["name", "hamza6"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 10:19:59.486325"], ["updated_at", "2022-10-10 10:19:59.486325"], ["welcome_mail", nil]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 7ea89652-b409-402f-917b-f58ce029c4e4) to Async(welcome_mail) at 2022-10-10 10:20:59 UTC with arguments: #<GlobalID:0x00000001130a9678 @uri=#<URI::GID gid://test-mailer/User/29>>
+Completed 201 Created in 28ms (Views: 1.3ms | ActiveRecord: 1.9ms | Allocations: 13156)
+
+
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 29], ["LIMIT", 1]]
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4] Performing SendWelcomeMailJob (Job ID: 7ea89652-b409-402f-917b-f58ce029c4e4) from Async(welcome_mail) enqueued at 2022-10-10T10:19:59Z with arguments: #<GlobalID:0x000000011320e7c0 @uri=#<URI::GID gid://test-mailer/User/29>>
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendering layout layouts/mailer.html.erb
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 1.4ms | Allocations: 460)
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendered layout layouts/mailer.html.erb (Duration: 2.5ms | Allocations: 719)
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendering layout layouts/mailer.text.erb
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.5ms | Allocations: 94)
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   Rendered layout layouts/mailer.text.erb (Duration: 1.2ms | Allocations: 306)
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   ↳ app/mailers/user_mailer.rb:10:in `welcome_email'
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   [1m[36mUser Update (0.3ms)[0m  [1m[33mUPDATE "users" SET "updated_at" = ?, "welcome_mail" = ? WHERE "users"."id" = ?[0m  [["updated_at", "2022-10-10 10:20:59.561658"], ["welcome_mail", 1], ["id", 29]]
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   ↳ app/mailers/user_mailer.rb:10:in `welcome_email'
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4]   ↳ app/mailers/user_mailer.rb:10:in `welcome_email'
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4] UserMailer#welcome_email: processed outbound mail in 19.4ms
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4] Delivered mail 6343f20b8ac09_34e8438086668@MP15-UsmanA-SE-216.local.mail (4963.7ms)
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4] Date: Mon, 10 Oct 2022 15:20:59 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343f20b8ac09_34e8438086668@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343f20b88c7c_34e843808657a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343f20b88c7c_34e843808657a
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343f20b88c7c_34e843808657a
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza6</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343f20b88c7c_34e843808657a--
+
+[ActiveJob] [SendWelcomeMailJob] [7ea89652-b409-402f-917b-f58ce029c4e4] Performed SendWelcomeMailJob (Job ID: 7ea89652-b409-402f-917b-f58ce029c4e4) from Async(welcome_mail) in 5024.94ms
+Started POST "/users/?name=hamza6&username=hamza1&email=usman.ahmed@invozone.com" for ::1 at 2022-10-10 15:30:21 +0500
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#create as */*
+  Parameters: {"name"=>"hamza6", "username"=>"hamza1", "email"=>"usman.ahmed@invozone.com"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mUser Create (4.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "username", "created_at", "updated_at", "welcome_mail") VALUES (?, ?, ?, ?, ?, ?)[0m  [["name", "hamza6"], ["email", "usman.ahmed@invozone.com"], ["username", "hamza1"], ["created_at", "2022-10-10 10:30:21.670124"], ["updated_at", "2022-10-10 10:30:21.670124"], ["welcome_mail", nil]]
+  ↳ app/controllers/users_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:20:in `create'
+[ActiveJob] Enqueued SendWelcomeMailJob (Job ID: 33ed677f-5cc1-402d-bdfd-ea347a42fcc2) to Async(welcome_mail) at 2022-10-10 10:31:21 UTC with arguments: #<GlobalID:0x0000000112964160 @uri=#<URI::GID gid://test-mailer/User/30>>
+Completed 201 Created in 47ms (Views: 0.5ms | ActiveRecord: 6.0ms | Allocations: 13102)
+
+
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 30], ["LIMIT", 1]]
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2] Performing SendWelcomeMailJob (Job ID: 33ed677f-5cc1-402d-bdfd-ea347a42fcc2) from Async(welcome_mail) enqueued at 2022-10-10T10:30:21Z with arguments: #<GlobalID:0x0000000111c92450 @uri=#<URI::GID gid://test-mailer/User/30>>
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendering layout layouts/mailer.html.erb
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendering user_mailer/welcome_email.html.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendered user_mailer/welcome_email.html.erb within layouts/mailer (Duration: 1.6ms | Allocations: 460)
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendered layout layouts/mailer.html.erb (Duration: 2.3ms | Allocations: 719)
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendering layout layouts/mailer.text.erb
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendering user_mailer/welcome_email.text.erb within layouts/mailer
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendered user_mailer/welcome_email.text.erb within layouts/mailer (Duration: 0.4ms | Allocations: 94)
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   Rendered layout layouts/mailer.text.erb (Duration: 1.1ms | Allocations: 306)
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   ↳ app/mailers/user_mailer.rb:11:in `welcome_email'
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   [1m[36mUser Update (0.3ms)[0m  [1m[33mUPDATE "users" SET "updated_at" = ?, "welcome_mail" = ? WHERE "users"."id" = ?[0m  [["updated_at", "2022-10-10 10:31:21.786978"], ["welcome_mail", 1], ["id", 30]]
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   ↳ app/mailers/user_mailer.rb:11:in `welcome_email'
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   [1m[36mTRANSACTION (0.9ms)[0m  [1m[36mcommit transaction[0m
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2]   ↳ app/mailers/user_mailer.rb:11:in `welcome_email'
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2] UserMailer#welcome_email: processed outbound mail in 19.0ms
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2] Delivered mail 6343f479c1c2d_360d43bc985ac@MP15-UsmanA-SE-216.local.mail (3471.3ms)
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2] Date: Mon, 10 Oct 2022 15:31:21 +0500
+From: noreply@example.com
+To: usman.ahmed@invozone.com
+Message-ID: <6343f479c1c2d_360d43bc985ac@MP15-UsmanA-SE-216.local.mail>
+Subject: welcome to ROCKY shop
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6343f479bfcd8_360d43bc984eb";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_6343f479bfcd8_360d43bc984eb
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+WELCOME to HELL
+
+----==_mimepart_6343f479bfcd8_360d43bc984eb
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+
+<h1>Welcome to example.com, hamza6</h1>
+<p>
+  You have successfully signed up to example.com,
+  your username is: hamza1.<br>
+</p>
+<p>
+  To login to the site, just follow this link: http://example.com/login.
+</p>
+<p>Thanks for joining and have a great day!</p>
+
+
+
+
+</body>
+</html>
+  </body>
+</html>
+
+----==_mimepart_6343f479bfcd8_360d43bc984eb--
+
+[ActiveJob] [SendWelcomeMailJob] [33ed677f-5cc1-402d-bdfd-ea347a42fcc2] Performed SendWelcomeMailJob (Job ID: 33ed677f-5cc1-402d-bdfd-ea347a42fcc2) from Async(welcome_mail) in 3549.8ms
