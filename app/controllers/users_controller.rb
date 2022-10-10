@@ -18,7 +18,7 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
 
     if @user.save
-        SendWelcomeMailJob.set(wait: 1.minute).perform_later(@user)
+        SendWelcomeMailJob.set(wait: 5.seconds).perform_later(@user)
       render json: @user, status: :created, location: @user
     else
       render json: @user.errors, status: :unprocessable_entity

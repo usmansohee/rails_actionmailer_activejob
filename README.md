@@ -5,14 +5,21 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version=> ruby 3.1.2p20
+* versions:
+    * ruby 3.1.2p20
+    * rails 7.0.4
 
-* ActiveJob and ActionMailer forom
+* services
+    * ActionMailer
+    * ActiveJob with callbacks
 
-* Configuration => gmail smpt for actionemailer
+* configuration:
+    * gmail config actionemailer
 
-* Database => mysqlite
+* Database:
+    * mysqlite
 
-* Gems => 'rails-env', '~> 2.0', '>= 2.0.2' 
+* gems: 
+    * 'rails-env', '~> 2.0', '>= 2.0.2' 
 
-* Start server=> rails s
+* Start server => rails s
