@@ -5,20 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version=> ruby 3.1.2p20
 
-* System dependencies
+* ActiveJob and ActionMailer forom
 
-* Configuration
+* Configuration => gamil smpt for actionemailer
 
-* Database creation
+* Database => mysqlite
 
-* Database initialization
+* Gems => 'rails-env', '~> 2.0', '>= 2.0.2' 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Start server=> rails s
